@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TimelessTunes</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="main-container">
+    
+    <div class="navbar">
+      <div class="icon">
+        <h2 class="logo">TimelessTunes</h2>
+      </div>
+      <div class="menu">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#explore">Explore</a></li>
+          <li><a href="#genres">Genres</a></li>
+          <li><a href="#language">Language</a></li>
+          <li><a href="#favorites">Favorites</a></li>
+          <li><a href="#about">About</a></li>
+        </ul>
+      </div>
+    </div> <!-- end of navbar -->
+    <h2>Iconic Albums</h2>
+    <div class="album-container">
+      <div class="album-card">
+        <img src="britney.jpeg" alt="britney"/>
+        <h3>Britney Spears</h3>
+        <p>...baby one more time</p>
+      </div>
+      <div class="album-card">
+        <img src="Amy winehouse.jpeg" alt="amy winehouse"/>
+        <h3>Amy Winehouse</h3>
+        <p>Back To Black</p>
+      </div>
+      <div class="album-card">
+        <img src="Michael jackson.jpeg" alt="Michael"/>
+        <h3>Michael Jackson</h3>
+        <p>Smooth Criminal</p>
+      </div>
+      <div class="album-card">
+        <img src="Rhianna.jpeg" alt="Rhianna"/>
+        <h3>Rihanna</h3>
+        <p>Anti</p>
+      </div>
+      <div class="album-card">
+        <img src="maneshkin.jpeg" alt="maneskin"/>
+        <h3>Måneskin</h3>
+        <p>Teatro d'ira - Vol. I</p>
+      </div>
+    </div> <!-- end of album-container -->
+
+  </div> <!-- end of main-container -->
+</body>
+</html>
